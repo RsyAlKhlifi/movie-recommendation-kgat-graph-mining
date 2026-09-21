@@ -1,4 +1,4 @@
-# KGAT Movie Recommender — HetRec 2011
+# KGAT Movie Recommender HetRec 2011
 
 Implementasi **Knowledge Graph Attention Network (KGAT)** untuk sistem rekomendasi film berbasis *graph mining* pada dataset **HetRec 2011 (MovieLens-2k)**.
 
